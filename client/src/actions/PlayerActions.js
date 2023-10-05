@@ -1,3 +1,5 @@
+//js file
+
 import * as types from '../constants/ActionTypes';
 import { getPlaylist, getRepeat, getShuffle } from '../selectors/CommonSelectors';
 import { getNextIndex, getPrevIndex, getShuffleIndex } from '../selectors/PlayerSelectors';
